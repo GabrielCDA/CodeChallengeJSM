@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBOiZnjzsxrBquWmf6RwMnQNbGCglC00+QYOe4QhNmdbklzwryB9XWg6QAr5HoY3zpfurppaDcNRLJXgPYC7Gg==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\Libary.CodeChallengeJSM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

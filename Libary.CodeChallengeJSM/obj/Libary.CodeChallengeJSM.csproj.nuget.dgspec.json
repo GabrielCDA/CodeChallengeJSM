@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\Libary.CodeChallengeJSM.csproj": {}
+  },
+  "projects": {
+    "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\Libary.CodeChallengeJSM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\Libary.CodeChallengeJSM.csproj",
+        "projectName": "Libary.CodeChallengeJSM",
+        "projectPath": "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\Libary.CodeChallengeJSM.csproj",
+        "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\CodeChallengeJSM\\Libary.CodeChallengeJSM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\Structure.CodeChallengeJSM.csproj": {
+                "projectPath": "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\Structure.CodeChallengeJSM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\Structure.CodeChallengeJSM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\Structure.CodeChallengeJSM.csproj",
+        "projectName": "Structure.CodeChallengeJSM",
+        "projectPath": "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\Structure.CodeChallengeJSM.csproj",
+        "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\CodeChallengeJSM\\Structure.CodeChallengeJSM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

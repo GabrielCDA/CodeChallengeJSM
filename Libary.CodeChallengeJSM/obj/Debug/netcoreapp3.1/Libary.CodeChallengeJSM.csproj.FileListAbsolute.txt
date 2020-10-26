@@ -1,0 +1,12 @@
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.deps.json
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.csproj.CopyComplete
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Libary.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Libary.CodeChallengeJSM.csproj.CoreCompileInputs.cache

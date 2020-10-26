@@ -1,0 +1,4 @@
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Estrutura.CodeChallengeJSM.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Estrutura.CodeChallengeJSM.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Estrutura.CodeChallengeJSM.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Estrutura.CodeChallengeJSM.csproj.CoreCompileInputs.cache

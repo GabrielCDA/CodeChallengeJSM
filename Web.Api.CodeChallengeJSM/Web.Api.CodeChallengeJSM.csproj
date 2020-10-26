@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>de83a075-6887-4fad-aae5-d61243ab46d6</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libary.CodeChallengeJSM\Libary.CodeChallengeJSM.csproj" />
+    <ProjectReference Include="..\Structure.CodeChallengeJSM\Structure.CodeChallengeJSM.csproj" />
+  </ItemGroup>
+
+
+</Project>

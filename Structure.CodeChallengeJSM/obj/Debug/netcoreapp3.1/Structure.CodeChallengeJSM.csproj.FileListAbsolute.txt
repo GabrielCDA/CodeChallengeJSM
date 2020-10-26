@@ -1,0 +1,17 @@
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.deps.json
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Estrutura.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.deps.json
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\bin\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.pdb
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.dll
+C:\Users\Gabri\source\repos\Web.Api.CodeChallengeJSM\Structure.CodeChallengeJSM\obj\Debug\netcoreapp3.1\Structure.CodeChallengeJSM.pdb
