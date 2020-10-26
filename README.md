@@ -10,6 +10,6 @@ Foi feito apenas um método Get para devolver os clientes de acordo com os param
 Basta executar a solution e passar os parametros (todos opcionais) através do swagger. O retorno será dado pelo proprio swagger, em uma interface amigavel.
 
 # Melhorias Futuras
--Colocar o Swagger/API para funcionar com "Authorization";
--Implementar o Docker corretamente;
--Implentar o XUnit de forma completa.
+1. Colocar o Swagger/API para funcionar com "Authorization";
+2. Implementar o Docker corretamente;
+3. Implentar o XUnit de forma completa.
